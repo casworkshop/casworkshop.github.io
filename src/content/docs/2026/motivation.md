@@ -19,7 +19,7 @@ While sentiment workshops and sentiment tracks have existed for almost two decad
 
 **CAS vs Affective Computing (AC)**
 
-Affective Computing is an interdisciplinary  field with a focus on developing systems and devices that can recognize, interpret, and express human emotions \cite{Picard97}. In contrast CAS has a focus on the science of how emotions work and how they impact our lives. 
+Affective Computing is an interdisciplinary  field with a focus on developing systems and devices that can recognize, interpret, and express human emotions. In contrast CAS has a focus on the science of how emotions work and how they impact our lives. 
 
 CAS, SA, and AC have overlaps, but also clear differences, especially in terms of their purpose and focus. This also necessitates differences in how these works are reviewed. While SA and AC value algorithmic and computational novelty, CAS values new findings in the understanding of affect.
 
