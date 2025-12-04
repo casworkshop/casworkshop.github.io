@@ -3,36 +3,38 @@ title: The 1st Workshop on Computational Affective Science
 description: CAS @ LREC 2026
 ---
 
-The 1st Workshop on Computational Affective Science (CAS 2026) will be co-located with [LREC 2026](https://lrec2026.info/), held 11-16 May 2026 in Palma de Mallorca.
+First Call for Papers: The 1st Workshop on Computational Affective Science (CAS 2026), collocated with LREC 2026 in Palma de Mallorca. 
 
-**About:** Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though most of us are intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and related questions about affect and emotions.
-Since language is a powerful mechanism of emotion expression, there is a growing use of language data and advanced natural language processing (NLP) algorithms to shed light on fundamental questions about emotions. The Workshop on Computational Affective Science (CAS) aims to be a dedicated venue for work focused specifically on the link between NLP and affective science. 
+**About:** Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though most of us are intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and related questions about affect and emotions. 
+
+Since language is a powerful mechanism of emotion expression, there is a growing use of language data and advanced natural language processing (NLP) algorithms to shed light on fundamental questions about emotions. The **Workshop on Computational Affective Science (CAS)** aims to be a dedicated venue for work focused specifically on the link between NLP and affective science. 
+ 
 
 **Interdisciplinary Scope:** The workshop takes an interdisciplinary approach to affective sciences and aims at bringing together NLP researchers and theorists from other research areas, including psychology, social sciences, neurology, and philosophy. work is the lack of theory. CAS is therefore co-organized by an interdisciplinary group of researchers.
 
-
 ## Call for Papers
-
-We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation.
+We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS 2026 will accept archival (long and short papers) as well as non-archival (extended abstracts) submissions.
 
 ## Submission Topics
+
 We invite long and short archival paper submissions, as well as non-archival extended abstracts on a broad range of topics at the intersection of affective science and natural language processing, including but not limited to:
 
 **1. The Nature of Affect and Computational Modeling of Emotions**
 
 Computational experiments that add to our understanding of affect and emotions, including findings relevant to:
-theories and nature of emotion
-the biology or neuroscience of emotions
-appraisal models
-dimensional models (valence / arousal / dominance)
-models of constructed emotion
-cognitive-affective architectures
-emotion dynamics (emergence, intensification, decay, transitions)
-emotion granularity
-emotion regulation
-affective embodiment
-evolutionary and developmental affect
-emotion–cognition interactions
+- theories and nature of emotion
+- the biology or neuroscience of emotions
+- appraisal models
+- dimensional models (valence / arousal / dominance)
+- models of constructed emotion
+- cognitive-affective architectures
+- emotion dynamics (emergence, intensification, decay, transitions)
+- emotion granularity
+- emotion regulation
+- affective embodiment
+- evolutionary and developmental affect
+- emotion–cognition interactions
+
 These areas are relevant not just to human affect, but may also apply to data animals and artificial agents.
 
 **2. Affective Data and Resources**
@@ -41,26 +43,29 @@ Work on compiling and annotating affect-related information in text, speech, fac
 
 **3. Emotion Recognition, Prediction, and Inference**
 
-At the instance level:
-emotion classification (discrete emotions, dimensional ratings)
-emotion intensity estimation
-emotion cause detection
-context-aware affect inference (culture, situation, social setting)
-At the aggregate level:
-creating emotion arcs
-determining broad trends in emotions over time or across locations
-tracking emotional responses toward entities of interest (e.g., climate change)
-document-level and cross-document emotion analysis
+**At the instance level:**
+
+- emotion classification (discrete emotions, dimensional ratings)
+- emotion intensity estimation
+- emotion cause detection
+- context-aware affect inference (culture, situation, social setting)
+
+**At the aggregate level:**
+
+- creating emotion arcs
+- determining broad trends in emotions over time or across locations
+- tracking emotional responses toward entities of interest (e.g., climate change)
+- document-level and cross-document emotion analysis
 
 
 **4. Applications**
 
 Including but not limited to:
-Affect and Health, psychopathology, and mental disorders
-Affect and Behavior/Social Science (e.g., interpersonal affect, empathy, group-level affect, affect contagion, computational emotion regulation)
-Affect and Education
-Affect and Literature/Storytelling/Digital Humanities
-Affect and Commerce
+- Affect and Health, psychopathology, and mental disorders
+- Affect and Behavior/Social Science (e.g., interpersonal affect, empathy, group-level affect, affect contagion, computational emotion regulation)
+- Affect and Education
+- Affect and Literature/Narratives/Digital Humanities
+- Affect and Commerce
 
 
 **5. Explainability and Interpretability in Computational Affective Models**
@@ -70,14 +75,14 @@ Work aimed at improving the transparency and interpretability of affective syste
 
 **6. Ethics, Fairness, Theory Integration, Philosophical Implications**
 
-Bias and generalizability of affective systems across demographics
-Privacy and ethics in affective data collection
-Examining whether automatic NLP systems rely on current and valid theories of affect and emotion
-The implications of machines modeling or simulating affect
-Societal considerations surrounding affective artificial agents
+- Bias and generalizability of affective systems across demographics
+- Privacy and ethics in affective data collection
+- Examining whether automatic NLP systems rely on current and valid theories of affect and emotion
+- The implications of machines modeling or simulating affect
+- Societal considerations surrounding affective artificial agents
 
 
-## Important Dates
+## Important Dates (tentative)
 - Submission deadline: Feb 2026
 - Notification of acceptance: March 2026
 - Camera Ready Paper due: March 2026
@@ -96,6 +101,9 @@ We invite submissions for archival long and short papers, as well as non-archiva
 
 ### Submission Format
 All submissions must use the LREC 2026 template and follow the guidelines found at: https://lrec2026.info/authors-kit/
+
+**Mandatory Ethics Section:** We ask all authors to include an Ethical Considerations section in their submission, touching on the ethical concerns and broader societal impacts of the work. This discussion section will not count towards the page limit. 
+
 
 ### Submission Site
 All submissions must be made through the SoftConf portal: <softconf-link-here>
