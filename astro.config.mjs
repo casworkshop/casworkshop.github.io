@@ -7,10 +7,8 @@ export default defineConfig({
 	site: 'https://casworkshop.github.io',
 	integrations: [
 		starlight({
-			title: 'Computational Affective Science',
-			logo: {
-				'src': './src/assets/houston.webp',
-			},
+			title: 'CAS Workshop',
+			
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
