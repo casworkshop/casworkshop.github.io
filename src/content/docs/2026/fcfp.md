@@ -94,7 +94,7 @@ Work aimed at improving the transparency and interpretability of affective syste
 ## Important Dates
 - Submission deadline: 13 Feb 2026
 - Notification of acceptance: 16 March 2026
-- Camera Ready Paper due: 23 March 2026
+- Camera Ready Paper due: 30 March 2026
 - Workshop date: TBA (11-16 May 2026)
 
 ## Submission Details
