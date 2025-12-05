@@ -1,16 +1,25 @@
 ---
-title: The 1st Workshop on Computational Affective Science
+title: First Call for Papers
 description: CAS @ LREC 2026
 ---
 
-First Call for Papers: The 1st Workshop on Computational Affective Science (CAS 2026), collocated with LREC 2026 in Palma de Mallorca. 
+First Call for Papers: The 1st Workshop on Computational Affective Science (CAS 2026), co-located with the Language Resources and Evaluation Conference (LREC) 2026 in Palma de Mallorca, Spain, May 11-16. 
 
-**About:** Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though most of us are intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and related questions about affect and emotions. 
+**Website**: https://casworkshop.github.io/ 
+
+**Contact**: <workshop.cas1@gmail.com>
+
+
+We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS 2026 will accept archival (long and short papers) as well as non-archival (extended abstracts) submissions.
+
+
+### Motivation 
+Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though most of us are intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and related questions about affect and emotions. 
 
 Since language is a powerful mechanism of emotion expression, there is a growing use of language data and advanced natural language processing (NLP) algorithms to shed light on fundamental questions about emotions. The **Workshop on Computational Affective Science (CAS)** aims to be a dedicated venue for work focused specifically on the link between NLP and affective science. 
  
 
-**Interdisciplinary Scope:** The workshop takes an interdisciplinary approach to affective sciences and aims at bringing together NLP researchers and theorists from other research areas, including psychology, social sciences, neurology, and philosophy. work is the lack of theory. CAS is therefore co-organized by an interdisciplinary group of researchers.
+**Interdisciplinary Scope:** The workshop takes an interdisciplinary approach to affective science and aims at bringing together NLP researchers, scientists, and theorists from many research areas, including psychology, sociology,, neuroscience, and philosophy. Although work in sentiment analysis is decades old, this work often proceeds separately and in different fields from research and theory in affective science. Meanwhile, affective scientists in psychology, sociology, neuroscience and philosophy increasingly seek to use linguistic tools to shed light on the nature of emotions, moods, and feeling states. CAS is therefore co-organized by an interdisciplinary group of researchers (spanning NLP and affective science) to foment collaboration at this exciting frontier of research. 
 
 ## Call for Papers
 We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS 2026 will accept archival (long and short papers) as well as non-archival (extended abstracts) submissions.
@@ -82,10 +91,10 @@ Work aimed at improving the transparency and interpretability of affective syste
 - Societal considerations surrounding affective artificial agents
 
 
-## Important Dates (tentative)
-- Submission deadline: Feb 2026
-- Notification of acceptance: March 2026
-- Camera Ready Paper due: March 2026
+## Important Dates
+- Submission deadline: 13 Feb 2026
+- Notification of acceptance: 16 March 2026
+- Camera Ready Paper due: 23 March 2026
 - Workshop date: TBA (11-16 May 2026)
 
 ## Submission Details
@@ -106,10 +115,20 @@ All submissions must use the LREC 2026 template and follow the guidelines found 
 
 
 ### Submission Site
-All submissions must be made through the SoftConf portal: <softconf-link-here>
+All submissions must be made through the SoftConf portal. The link to the system will be shared shortly.
 
 ## Additional Details
 
 **Attendance:** The workshop will follow the attendance policy of the main conference (https://lrec2026.info/registration-policy/ ).
+
+## Organizers
+
+- Christopher Bagdon, University of Bamberg, Germany
+- Krishnapriya Vishnubhotla, National Research Council Canada
+- Kristen A. Lindquist, The Ohio State University, USA
+- Lyle Ungar, University of Pennsylvania, USA
+- Roman Klinger,  University of Bamberg, Germany
+- Saif M. Mohammad, National Research Council Canada
+
 
 **Contact:** Contact us at <workshop.cas1@gmail.com> with any questions.
