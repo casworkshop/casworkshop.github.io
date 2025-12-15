@@ -10,16 +10,16 @@ First Call for Papers: The 1st Workshop on Computational Affective Science (CAS 
 **Contact**: <workshop.cas1@gmail.com>
 
 
-We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS 2026 will accept archival (long and short papers) as well as non-archival (extended abstracts) submissions.
+We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS will accept archival long and short paper submissions, featuring substantial, original, and unpublished research. We also encourage submissions of extended abstracts from researchers in the broader Affective Science community, with up to two pages of content featuring the research background/hypotheses and a description of methods/results. Extended abstracts are non-archival, offering the option for publication and presentation at other conference venues.
 
 
 ### Motivation 
-Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though most of us are intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and related questions about affect and emotions. 
+Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though most of us are intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and related questions about affect and emotions.
 
-Since language is a powerful mechanism of emotion expression, there is a growing use of language data and advanced natural language processing (NLP) algorithms to shed light on fundamental questions about emotions. The **Workshop on Computational Affective Science (CAS)** aims to be a dedicated venue for work focused specifically on the link between NLP and affective science. 
+Since language is a powerful mechanism of emotion expression, there is a growing use of language data and advanced natural language processing (NLP) algorithms to shed light on fundamental questions about emotions. The **Workshop on Computational Affective Science (CAS)** aims to be a dedicated venue for work focused specifically on the link between NLP and affective science.  
  
 
-**Interdisciplinary Scope:** The workshop takes an interdisciplinary approach to affective science and aims at bringing together NLP researchers, scientists, and theorists from many research areas, including psychology, sociology,, neuroscience, and philosophy. Although work in sentiment analysis is decades old, this work often proceeds separately and in different fields from research and theory in affective science. Meanwhile, affective scientists in psychology, sociology, neuroscience and philosophy increasingly seek to use linguistic tools to shed light on the nature of emotions, moods, and feeling states. CAS is therefore co-organized by an interdisciplinary group of researchers (spanning NLP and affective science) to foment collaboration at this exciting frontier of research. 
+**Interdisciplinary Scope:** The workshop takes an interdisciplinary approach to affective science and aims at bringing together NLP researchers, scientists, and theorists from many research areas, including psychology, sociology, neuroscience, and philosophy. Although work in sentiment analysis is decades old, this work often proceeds separately and in different fields from research and theory in affective science. Meanwhile, affective scientists in psychology, sociology, neuroscience and philosophy increasingly seek to use linguistic tools to shed light on the nature of emotions, moods, and feeling states. CAS is therefore co-organized by an interdisciplinary group of researchers (spanning NLP and Affective Science) to foment collaboration at this exciting frontier of research. 
 
 ## Call for Papers
 We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS 2026 will accept archival (long and short papers) as well as non-archival (extended abstracts) submissions.
@@ -101,15 +101,21 @@ Work aimed at improving the transparency and interpretability of affective syste
 
 We invite submissions for archival long and short papers, as well as non-archival extended abstracts.
 
+Archival long and short papers should feature novel and unpublished work relating to the topics detailed above. 
+
+We also invite submissions of extended abstracts from researchers in the broader Affective Science community, with up to two pages of content featuring the research background/hypotheses and a description of methods/results. Extended abstracts are non-archival, offering the option for publication and presentation at other conference venues.
+
 **Archival Track**
 - Long Paper: Consists of up to 8 pages of content, with additional pages for references, limitations, ethical considerations, and appendices.
 - Short Paper: Consists of up to 4 pages of content, with additional pages for references, limitations, ethical considerations, and appendices.
+
+(When preparing camera ready papers, you will be allowed one extra page to address comments by the reviewers.)
 
 **Non-Archival Track**
 - Extended Abstract: Up to 2 pages.
 
 ### Submission Format
-All submissions must use the LREC 2026 template and follow the guidelines found at: https://lrec2026.info/authors-kit/
+All submissions must use the LREC 2026 template and follow the guidelines found at: https://lrec2026.info/authors-kit/ (**Note:** extended abstracts can be limited to being 1-2 pages in length).
 
 **Mandatory Ethics Section:** We ask all authors to include an Ethical Considerations section in their submission, touching on the ethical concerns and broader societal impacts of the work. This discussion section will not count towards the page limit. 
 
@@ -118,6 +124,8 @@ All submissions must use the LREC 2026 template and follow the guidelines found 
 All submissions must be made through the SoftConf portal. The link to the system will be shared shortly.
 
 ## Additional Details
+
+**Website:** https://casworkshop.github.io/
 
 **Attendance:** The workshop will follow the attendance policy of the main conference (https://lrec2026.info/registration-policy/ ).
 
