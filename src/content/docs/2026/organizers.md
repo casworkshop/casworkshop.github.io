@@ -12,4 +12,4 @@ description: CAS @ LREC 2026
 - [Saif M. Mohammad](https://www.saifmohammad.com/), National Research Council Canada
 
 
-**Contact:** Contact us at <workshop.cas1@gmail.com> with any questions.
+**Contact:** Contact us at <cas-workshop@googlegroups.com> with any questions.

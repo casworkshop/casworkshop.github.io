@@ -7,7 +7,7 @@ First Call for Papers: The 1st Workshop on Computational Affective Science (CAS 
 
 **Website**: https://casworkshop.github.io/ 
 
-**Contact**: <workshop.cas1@gmail.com>
+**Contact**: <cas-workshop@googlegroups.com>
 
 
 We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS will accept archival long and short paper submissions, featuring substantial, original, and unpublished research. We also encourage submissions of extended abstracts from researchers in the broader Affective Science community, with up to two pages of content featuring the research background/hypotheses and a description of methods/results. Extended abstracts are non-archival, offering the option for publication and presentation at other conference venues.
@@ -127,16 +127,18 @@ All submissions must be made through the SoftConf portal: https://softconf.com/l
 
 **Website:** https://casworkshop.github.io/
 
+**Contact**: <cas-workshop@googlegroups.com>
+
 **Attendance:** The workshop will follow the attendance policy of the main conference (https://lrec2026.info/registration-policy/ ).
 
 ## Organizers
 
-- Christopher Bagdon, University of Bamberg, Germany
-- Krishnapriya Vishnubhotla, National Research Council Canada
-- Kristen A. Lindquist, The Ohio State University, USA
-- Lyle Ungar, University of Pennsylvania, USA
-- Roman Klinger,  University of Bamberg, Germany
-- Saif M. Mohammad, National Research Council Canada
+- Christopher Bagdon, University of Bamberg, Germany (<Christopher.Bagdon@uni-bamberg.de>)
+- Krishnapriya Vishnubhotla, National Research Council Canada (<vk22priya@gmail.com>)
+- Kristen A. Lindquist, The Ohio State University, USA (<lindquist.83@osu.edu>)
+- Lyle Ungar, University of Pennsylvania, USA (<ungar@cis.upenn.edu>)
+- Roman Klinger,  University of Bamberg, Germany (<klinger.roman@gmail.com>)
+- Saif M. Mohammad, National Research Council Canada (<uvgotsaif@gmail.com>)
 
 
-**Contact:** Contact us at <workshop.cas1@gmail.com> with any questions.
+**Contact:** Contact us at <cas-workshop@googlegroups.com> with any questions.

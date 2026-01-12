@@ -7,7 +7,9 @@ Co-located with [LREC 2026](https://lrec2026.info/) in Palma de Mallorca, 11-16 
 
 The Computational Affective Science (CAS) workshop is a series dedicated to exploring the intersection of Natural Language Processing (NLP) and Affective Science. Over the course of the series we hope to explore the many subareas and modalities in which affect is studied. The first edition of the CAS workshop at LREC 2026 will focus on language based modalities.
 
-**Contact**: <workshop.cas1@gmail.com>
+**Contact**: <cas-workshop@googlegroups.com>
+
+**Related material**: [This tutorial](https://saifmohammad.com/WebPages/CAS-tutorial.html), presented at AACL 2025, gives an overview of the research areas covered under CAS.
 
 ## Motivation
 
