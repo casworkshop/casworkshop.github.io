@@ -17,6 +17,7 @@ export default defineConfig({
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Motivation', slug: '2026/motivation' },
 						{ label: 'First CfP', slug: '2026/fcfp' },
+						{ label: 'Second CfP', slug: '2026/scfp' },
 						{ label: 'Organizers', slug: '2026/organizers' },
 					],
 				},
