@@ -3,12 +3,19 @@ title: Third Call for Papers
 description: CAS @ LREC 2026
 ---
 
-Third Call for Papers: The 1st Workshop on Computational Affective Science (CAS 2026), co-located with the Language Resources and Evaluation Conference (LREC) 2026 in Palma de Mallorca, Spain, May 11-16. 
+Third and Final Call for Papers: The 1st Workshop on Computational Affective Science (CAS 2026), co-located with the Language Resources and Evaluation Conference (LREC) 2026 in Palma de Mallorca, Spain, May 11-16. (Submission deadline extended to 20 Feb 2026). 
 
 **Website**: https://casworkshop.github.io/   
 **Contact**: <cas-workshop@googlegroups.com>
 
 We invite submissions to the first Workshop on Computational Affective Science (CAS 2026), co-located with LREC 2026, on research related to the understanding of affect and emotions through language and computation. CAS will accept archival long and short paper submissions, featuring substantial, original, and unpublished research. We also encourage submissions of extended abstracts from researchers in the broader Affective Science community, with up to two pages of content featuring the research background/hypotheses and a description of methods/results. Extended abstracts are non-archival, offering the option for publication and presentation at other conference venues.
+
+## Important Dates
+
+- Submission deadline (**extended**): 20 Feb 2026
+- Notification of acceptance: 16 March 2026
+- Camera Ready Paper due: 30 March 2026
+- Workshop date: 16 May 2026
 
 ### Motivation 
 
@@ -85,10 +92,10 @@ Work aimed at improving the transparency and interpretability of affective syste
 
 ## Important Dates
 
-Submission deadline: 16 Feb 2026
-Notification of acceptance: 16 March 2026
-Camera Ready Paper due: 30 March 2026
-Workshop date: 16 May 2026
+- Submission deadline (**extended**): 20 Feb 2026
+- Notification of acceptance: 16 March 2026
+- Camera Ready Paper due: 30 March 2026
+- Workshop date: 16 May 2026
 
 ## Submission Details
 

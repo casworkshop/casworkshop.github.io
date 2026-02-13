@@ -9,11 +9,19 @@ The Computational Affective Science (CAS) workshop is a series dedicated to expl
 
 **Contact**: <cas-workshop@googlegroups.com>
 
-**Related material**: [This tutorial](https://saifmohammad.com/WebPages/CAS-tutorial.html), presented at AACL 2025, gives an overview of the research areas covered under CAS.
+## Important Dates
+
+- Submission deadline (**extended**): 20 Feb 2026
+- Notification of acceptance: 16 March 2026
+- Camera Ready Paper due: 30 March 2026
+- Workshop date: 16 May 2026
+
 
 ## Motivation
 
 Affect refers to the fundamental neural processes that generate and regulate emotions, moods, and feeling states. Affect and emotions are central to how we organize meaning, to our behavior, to our health and well-being, and to our very survival. Despite this, and even though we are all intimately familiar with emotions in everyday life, there is much we do not know about how emotions work and how they impact our lives. Affective Science is a broad interdisciplinary field that explores these and other related questions about affect and emotions. Since language is a powerful mechanism of emotion expression, there is a growing use of language data and advanced natural language processing (NLP) algorithms to shed light on fundamental questions about emotions. Although there is a general field of affective computing with dedicated venues, there is no dedicated venue for work at the intersection of NLP and Affective Science. Therefore, we propose a new workshop on Computational Affective Science (CAS) for work on all research associated with understanding affect and emotions through language and computation.
+
+**Related material**: [This tutorial](https://saifmohammad.com/WebPages/CAS-tutorial.html), presented at AACL 2025, gives an overview of the research areas covered under CAS.
 
 **CAS vs. Sentiment Analysis (SA)**
 
