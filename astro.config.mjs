@@ -19,6 +19,7 @@ export default defineConfig({
 						{ label: 'First CfP', slug: '2026/fcfp' },
 						{ label: 'Second CfP', slug: '2026/scfp' },
 						{ label: 'Third CfP', slug: '2026/tcfp' },
+						{ label: 'FAQ', slug: '2026/faq' },
 						{ label: 'Organizers', slug: '2026/organizers' },
 					],
 				},
