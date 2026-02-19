@@ -9,10 +9,10 @@ The Computational Affective Science (CAS) workshop is a series dedicated to expl
 
 **Contact**: <cas-workshop@googlegroups.com>
 
-## Important Dates
+## Important Dates (**updated**)
 
-- Submission deadline (**extended**): 20 Feb 2026
-- Notification of acceptance: 16 March 2026
+- Submission deadline (**extended**): 26 Feb 2026
+- Notification of acceptance: 20 March 2026
 - Camera Ready Paper due: 30 March 2026
 - Workshop date: 16 May 2026
 
