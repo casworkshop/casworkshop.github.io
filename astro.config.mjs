@@ -15,10 +15,18 @@ export default defineConfig({
 					label: '2026',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Motivation', slug: '2026/motivation' },
-						{ label: 'First CfP', slug: '2026/fcfp' },
-						{ label: 'Second CfP', slug: '2026/scfp' },
-						{ label: 'Third CfP', slug: '2026/tcfp' },
+						{ label: 'About', slug: '2026/motivation' },
+						{ label: 'Calls for Papers',
+							items: [{
+								label: 'First CfP', slug: '2026/calls/fcfp'
+							}, {
+								label: 'Second CfP', slug: '2026/calls/scfp'
+							}, {
+								label: 'Third CfP', slug: '2026/calls/tcfp'
+
+							}]
+						},
+						{ label: 'Accepted Papers', slug: '2026/accepted'},
 						{ label: 'FAQ', slug: '2026/faq' },
 						{ label: 'Organizers', slug: '2026/organizers' },
 					],

@@ -9,12 +9,20 @@ The Computational Affective Science (CAS) workshop is a series dedicated to expl
 
 **Contact**: <cas-workshop@googlegroups.com>
 
-## Important Dates (**updated**)
+## Workshop Updates
+
+-> The CAS Workshop will take place on May 16, 2026, 2pm-6pm (afternoon session).
+
+-> The list of accepted papers can be found [here](../../2026/accepted). 
+
+-> We are pleased to announce our two Keynote speakers for the workshop: [Dr. Jonathan Gratch](https://people.ict.usc.edu/~gratch/) and [Dr. Katie Hoemann](https://www.katiehoemann.com/). 
+
+<!-- ## Important Dates (**updated**)
 
 - Submission deadline (**extended**): 26 Feb 2026
 - Notification of acceptance: 24 March 2026 ~~20 March 2026~~
 - Camera Ready Paper due: 30 March 2026
-- Workshop date: 16 May 2026
+- Workshop date: 16 May 2026 -->
 
 
 ## Motivation
