@@ -27,6 +27,7 @@ export default defineConfig({
 							}]
 						},
 						{ label: 'Accepted Papers', slug: '2026/accepted'},
+						{ label: 'Program', link: '2026/program_st'	},
 						{ label: 'FAQ', slug: '2026/faq' },
 						{ label: 'Organizers', slug: '2026/organizers' },
 					],
