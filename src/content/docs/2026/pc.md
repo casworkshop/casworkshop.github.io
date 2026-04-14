@@ -1,0 +1,58 @@
+---
+title: Program Committee
+description: CAS @ LREC 2026
+---
+
+## Reviewers
+
+- Aaron Maladry
+- Alda Mari
+- Alejandro de la Torre-Luque
+- Amine Benamara
+- Anatoly Marchenko
+- Annerose Eichel
+- Asim Abbas
+- August Nilsson
+- Daniela Teodorescu
+- Debora Nozza
+- Dipankar Das
+- Elma Kerz
+- Emerson Paraiso
+- Emily Ohman
+- Emmanuel Ayedoun
+- Enrica Troiano
+- Farida Said
+- Fatima Uroosa
+- Florian Kunneman
+- Irene Russo
+- Jeremy Barnes
+- Komal Florio
+- Laura Alonso Alemany
+- Lorella Viola
+- Lynn Greschner
+- Mallory Feldman
+- Manish Shrivastava
+- Mariia Anisimova
+- Martijn Goudbeek
+- Natalia Vanetik
+- Nicolò Buscaroli
+- Nirmal Surange
+- Oscar Kjell
+- Paola Pietrandrea
+- Paolo Rosso
+- Quanqi Du
+- Rebecca Guolo
+- Rufaida Kashif
+- Samia Touileb
+- Sivaji Bandyopadhyay
+- Sofie Labat
+- Sunny Rai
+- Tak-Lam Wong
+- Valentina Dragos
+- Valerio Basile
+- Voula Giouli
+- Wajdi Zaghouani
+- Wanwan Zheng
+- Wazir Ali
+- Yoonwon Jung
+- Zeerak Talat

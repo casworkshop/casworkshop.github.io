@@ -14,8 +14,9 @@ The Computational Affective Science (CAS) workshop is a series dedicated to expl
 -> The CAS Workshop will take place on May 16, 2026, 2pm-6pm (afternoon session).
 
 -> The list of accepted papers can be found [here](../../2026/accepted). 
+We are very thankful for all the hard work put in by the [members of the Program Committee](../../2026/pc) to review all the submissions.  
 
--> We are pleased to announce our two Keynote speakers for the workshop: [Dr. Jonathan Gratch](https://people.ict.usc.edu/~gratch/) and [Dr. Katie Hoemann](https://www.katiehoemann.com/). 
+-> We are pleased to announce our two Keynote speakers for the workshop: [Dr. Jonathan Gratch](https://people.ict.usc.edu/~gratch/) and [Dr. Katie Hoemann](https://www.katiehoemann.com/). Details of the talks can be seen in the [Workshop Program](../../2026/program_st).
 
 <!-- ## Important Dates (**updated**)
 
