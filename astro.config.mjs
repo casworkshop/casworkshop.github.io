@@ -13,6 +13,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: '2026',
+					collapsed: true,
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'About', slug: '2026/motivation' },
@@ -32,6 +33,12 @@ export default defineConfig({
 						{ label: 'Organizers', slug: '2026/organizers' },
 					],
 				},
+				{
+					label: 'CAS@SAS2027',
+					items: [
+						{label: 'About', slug: 'cal-sas/about'}
+					]
+				}
 				
 			],
 		}),

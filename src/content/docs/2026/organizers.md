@@ -1,6 +1,7 @@
 ---
 title: Organizers
 description: CAS @ LREC 2026
+next: false
 ---
 
 
