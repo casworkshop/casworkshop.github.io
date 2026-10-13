@@ -12,7 +12,6 @@ We invite submissions to the Computational Affective Linguistics (CAL) preconfer
 
 We are excited to see cross-disciplinary work that engages with qualitative and quantitative methodologies from diverse fields, including affective science, neuroscience, philosophy, linguistics, and natural language processing (NLP), to advance our understanding of affect and emotions.
 
-
 We encourage submissions from early-stage and junior researchers in the affective science, computational linguistics, and natural language processing communities. Our goal is to foster learning and collaboration across these fields. Authors will have the option to publish the extended abstracts on the ACL Anthology. 
 
 **Website**: https://casworkshop.github.io/cal-sas
@@ -24,7 +23,7 @@ The [first CAS workshop](https://casworkshop.github.io/2026/motivation/) was hos
 
 ### Topics
 
-CAL will accept abstracts that discuss new ideas, new perspectives, new findings, and works-in-progress, on the topics of computational language processing and affective science. These topics include, but are not limited to:
+CAL will accept submissions that discuss new ideas, new perspectives, new findings, and works-in-progress, on the topics of computational language processing and affective science. These topics include, but are not limited to:
 
 
 - Qualitative and quantitative studies of natural language data that add to our understanding of affect and emotion, including findings relevant to:
@@ -57,17 +56,20 @@ CAL will accept abstracts that discuss new ideas, new perspectives, new findings
     - societal considerations surrounding affective artificial agents
 
 ### Submission Details
-Submissions must feature novel and recent work relating to the topics detailed above. Preliminary work is welcome! To diversify content across the preconference and the main SAS conference, we ask that speakers do not submit identical material to both forums.
-
-These abstracts are non-archival, offering the option for publication and presentation at other conference venues. Authors will also have the option to publish **extended abstracts** on the ACL Anthology. 
+Submissions must feature novel and recent work relating to the topics detailed above. Preliminary work is welcome! To diversify content across the preconference and the main SAS conference, we ask that speakers do not submit identical material to both forums. These abstracts are non-archival, offering the option for publication and presentation at other conference venues.
 
 We have two main submission tracks:
 - **Ideas**: These submissions showcase a new research idea, proof-of-concept methodology, or theoretical perspectives on the computational understanding of affect and emotion.   
 - **Findings**: These report new empirical resources, methods, or findings on affect and emotion resulting from a quantitative or qualitative analysis of data.
 
-**Format** Abstract submissions must include: a title, speaker name, affiliation, and career stage; a summary (300 words maximum) that motivates the work, provides details necessary to evaluate the idea or findings (e.g., methods, results), and contextualizes the work within computational affective science/linguistics. 
+**Format** 
 
-**Extended abstracts** (2 pages max) that elaborate on these elements, including images and visualizations, can optionally be included. These will be published on the [ACL Anthology](https://aclanthology.org/).
+Submissions can be one of two types:
+
+- **Abstract** submissions must include: a title, speaker name, affiliation, and career stage; a summary (300 words maximum) that motivates the work, provides details necessary to evaluate the idea or findings (e.g., methods, results), and contextualizes the work within computational affective science/linguistics. 
+
+- **Extended abstracts** (2 pages max) that elaborate on these elements, including images and visualizations. These will be published on the [ACL Anthology](https://aclanthology.org/).
+
 
 ### Key Dates
 - Submissions open: December 1, 2026
